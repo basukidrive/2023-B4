@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Network Layer"
-    id="id-762ed93689d048cdac42968055dd6426"/>
+    id="id-762ed93689d048cdac42968055dd6426">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-db9ded8b735142b187b208209100b9e4">
+    <bounds
+        x="72"
+        y="48"
+        width="1045"
+        height="565"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyFunction"
+        href="TechnologyFunction_id-bfd487bd145b4eeb99f612c333e9b848.xml#id-bfd487bd145b4eeb99f612c333e9b848"/>
+  </children>
+</archimate:ArchimateDiagramModel>
