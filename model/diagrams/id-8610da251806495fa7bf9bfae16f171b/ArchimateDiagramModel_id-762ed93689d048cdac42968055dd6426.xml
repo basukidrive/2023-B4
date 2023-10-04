@@ -19,7 +19,7 @@
         x="72"
         y="48"
         width="865"
-        height="709"/>
+        height="685"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b21837b8b6514e5d92b494da7bda9287"
@@ -28,7 +28,7 @@
           x="65"
           y="48"
           width="188"
-          height="266"/>
+          height="254"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-d42d648e2129469b8c9bea9f9b0b1738">
@@ -58,7 +58,7 @@
           id="id-0c40421cf46442f09b252909181e64fd">
         <bounds
             x="36"
-            y="156"
+            y="168"
             width="120"
             height="55"/>
         <archimateElement
@@ -76,7 +76,7 @@
           x="264"
           y="48"
           width="181"
-          height="266"/>
+          height="254"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-194ae12a3ce54d2eb188587cf55953ba">
@@ -112,7 +112,7 @@
           x="456"
           y="48"
           width="169"
-          height="266"/>
+          height="254"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-1ff902792249403f8a47cc1476f23e88">
@@ -170,7 +170,7 @@
         id="id-c81be6a5597346f5b91e309f5b02c238">
       <bounds
           x="636"
-          y="192"
+          y="180"
           width="169"
           height="122"/>
       <children
@@ -194,7 +194,7 @@
         id="id-508122b9a1c54afb847da8dcf00c15ee">
       <bounds
           x="65"
-          y="324"
+          y="312"
           width="188"
           height="205"/>
       <children
@@ -230,7 +230,7 @@
         id="id-c7607931de7a4b408955dea789b65525">
       <bounds
           x="264"
-          y="324"
+          y="312"
           width="181"
           height="205"/>
       <children
@@ -266,7 +266,7 @@
         id="id-e6641550df6347469290b43528e38a7d">
       <bounds
           x="456"
-          y="324"
+          y="312"
           width="349"
           height="205"/>
       <children
@@ -314,7 +314,7 @@
         id="id-1d35d22249284cf7adab3302826f78e9">
       <bounds
           x="65"
-          y="540"
+          y="528"
           width="740"
           height="121"/>
       <children
