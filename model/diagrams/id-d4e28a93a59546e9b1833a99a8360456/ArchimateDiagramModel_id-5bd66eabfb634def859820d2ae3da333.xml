@@ -25,17 +25,18 @@
           href="AssignmentRelationship_id-9f72eea571cb46f5aae412066c080ab4.xml#id-9f72eea571cb46f5aae412066c080ab4"/>
     </sourceConnections>
     <bounds
-        x="612"
-        y="288"
+        x="408"
+        y="204"
         width="301"
-        height="193"/>
+        height="361"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2ccf81dca7874f94a7f5280ee5450b1c"
-        targetConnections="id-45862049ebd94cf58dcc69e888a99e48">
+        targetConnections="id-45862049ebd94cf58dcc69e888a99e48"
+        textPosition="1">
       <bounds
-          x="12"
-          y="36"
+          x="24"
+          y="48"
           width="120"
           height="55"/>
       <archimateElement
@@ -46,20 +47,33 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-51631a4fdf14404e8d3bcc300686f426">
       <bounds
-          x="12"
-          y="108"
+          x="24"
+          y="120"
           width="120"
-          height="55"/>
+          height="205"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-9aedb774a69a40efbf6cb55dd1a18c3a">
+        <bounds
+            x="24"
+            y="36"
+            width="85"
+            height="49"/>
+        <archimateElement
+            xsi:type="archimate:BusinessProcess"
+            href="BusinessProcess_id-60445393651c4723888deca1a57f3ba7.xml#id-60445393651c4723888deca1a57f3ba7"/>
+      </children>
       <archimateElement
           xsi:type="archimate:ApplicationProcess"
           href="ApplicationProcess_id-3d94910da29a479aac79f7d43548652c.xml#id-3d94910da29a479aac79f7d43548652c"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-3eda0c931e5f45deb748bc86222e0ec6">
+        id="id-3eda0c931e5f45deb748bc86222e0ec6"
+        textPosition="1">
       <bounds
           x="156"
-          y="36"
+          y="48"
           width="120"
           height="55"/>
       <archimateElement
@@ -68,10 +82,11 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-7f488277e2634a98b0b0a464fd0602b4">
+        id="id-7f488277e2634a98b0b0a464fd0602b4"
+        textPosition="1">
       <bounds
           x="156"
-          y="108"
+          y="120"
           width="120"
           height="55"/>
       <archimateElement
@@ -85,12 +100,22 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-89ec95fd5ae1461e9ab9f9817c44f18b"
-      targetConnections="id-dd2d40fc715042f3a3f5e58937bd0fa7">
+      targetConnections="id-dd2d40fc715042f3a3f5e58937bd0fa7"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5a59be921bc849ca893ae0f5954602b3"
+        source="id-89ec95fd5ae1461e9ab9f9817c44f18b"
+        target="id-8d0d3b7a6d844ca484a1c522521815f3">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-0bf675ae2f194476ae8e681f977b1413.xml#id-0bf675ae2f194476ae8e681f977b1413"/>
+    </sourceConnections>
     <bounds
-        x="420"
-        y="181"
-        width="120"
-        height="55"/>
+        x="192"
+        y="96"
+        width="167"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-c007b6cd801d4dbea85cdb05902b6f9e.xml#id-c007b6cd801d4dbea85cdb05902b6f9e"/>
@@ -98,12 +123,13 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8d0d3b7a6d844ca484a1c522521815f3"
-      targetConnections="id-e7e401e37a1a40a5aaa82e75b5f90b2c">
+      targetConnections="id-e7e401e37a1a40a5aaa82e75b5f90b2c id-5a59be921bc849ca893ae0f5954602b3"
+      textPosition="1">
     <bounds
-        x="703"
-        y="181"
-        width="120"
-        height="55"/>
+        x="468"
+        y="96"
+        width="169"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-3da7797790914c53941c86986bedf6b2.xml#id-3da7797790914c53941c86986bedf6b2"/>
@@ -121,15 +147,16 @@
           href="ServingRelationship_id-2ac85cac51f04b7eaddea88ad42765fb.xml#id-2ac85cac51f04b7eaddea88ad42765fb"/>
     </sourceConnections>
     <bounds
-        x="396"
-        y="288"
+        x="192"
+        y="204"
         width="167"
         height="193"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-0095c5a129254c399dbd69a6688c3a1f">
+        id="id-0095c5a129254c399dbd69a6688c3a1f"
+        textPosition="1">
       <bounds
-          x="36"
+          x="24"
           y="48"
           width="120"
           height="55"/>
@@ -139,9 +166,10 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-9ab3193155854cc8b381f40b3424949b">
+        id="id-9ab3193155854cc8b381f40b3424949b"
+        textPosition="1">
       <bounds
-          x="36"
+          x="24"
           y="120"
           width="120"
           height="55"/>

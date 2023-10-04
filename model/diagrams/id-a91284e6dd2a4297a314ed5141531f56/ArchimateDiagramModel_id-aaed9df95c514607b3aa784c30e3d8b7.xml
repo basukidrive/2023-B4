@@ -38,14 +38,14 @@
         x="48"
         y="60"
         width="853"
-        height="97"/>
+        height="109"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ce6763f590dd445983e02cb0b29eb44c"
         targetConnections="id-7c410e8e95844f52b1d5d9a946583c1c">
       <bounds
-          x="168"
-          y="21"
+          x="36"
+          y="36"
           width="120"
           height="55"/>
       <archimateElement
@@ -57,8 +57,8 @@
         id="id-0fd54b456bca4a8590dcb088015daa90"
         targetConnections="id-cafec5ca97d8472f835367868d65d307">
       <bounds
-          x="324"
-          y="21"
+          x="192"
+          y="36"
           width="144"
           height="55"/>
       <archimateElement
@@ -70,8 +70,8 @@
         id="id-46f0c94df1c24e90b380d684f3ef5db6"
         targetConnections="id-c36a8c0d702741e9826aaab5372179ed">
       <bounds
-          x="504"
-          y="21"
+          x="372"
+          y="36"
           width="120"
           height="55"/>
       <archimateElement
@@ -106,16 +106,16 @@
     </sourceConnections>
     <bounds
         x="48"
-        y="168"
+        y="180"
         width="853"
-        height="140"/>
+        height="128"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5f45678a050f4ea1abbf520c3deadffd"
         targetConnections="id-de5b79fe89814574a85660d912766ba2">
       <bounds
-          x="216"
-          y="48"
+          x="36"
+          y="39"
           width="120"
           height="55"/>
       <archimateElement
@@ -127,9 +127,9 @@
         id="id-e1dff53352414617919aa26a793dde3e"
         targetConnections="id-4a4ec58bd1484a559629ed3e05777a5f">
       <bounds
-          x="372"
-          y="48"
-          width="120"
+          x="192"
+          y="39"
+          width="145"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessInteraction"
@@ -537,7 +537,9 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-9cf024e0db37483ea50768a6bb84cb41"
           targetConnections="id-00ccfe4c95f74e53a52f53c61ae6d2fc"
-          fillColor="#80ff80">
+          font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+          fontColor="#ffffff"
+          fillColor="#ff8000">
         <bounds
             x="192"
             y="96"
