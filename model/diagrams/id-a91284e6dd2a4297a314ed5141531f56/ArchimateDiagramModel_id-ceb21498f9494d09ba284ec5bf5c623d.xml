@@ -90,7 +90,7 @@
           href="ServingRelationship_id-f3a341d1cd7c4b3fa88b944a612954cc.xml#id-f3a341d1cd7c4b3fa88b944a612954cc"/>
     </sourceConnections>
     <bounds
-        x="75"
+        x="60"
         y="324"
         width="149"
         height="61"/>
@@ -131,9 +131,9 @@
           href="RealizationRelationship_id-ec114ae32704470c8872a3b6d92708db.xml#id-ec114ae32704470c8872a3b6d92708db"/>
     </sourceConnections>
     <bounds
-        x="255"
+        x="234"
         y="324"
-        width="145"
+        width="166"
         height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -283,7 +283,7 @@
           href="AssignmentRelationship_id-45744cab51b24251ad77a2ce7ca45402.xml#id-45744cab51b24251ad77a2ce7ca45402"/>
     </sourceConnections>
     <bounds
-        x="77"
+        x="62"
         y="432"
         width="146"
         height="61"/>
