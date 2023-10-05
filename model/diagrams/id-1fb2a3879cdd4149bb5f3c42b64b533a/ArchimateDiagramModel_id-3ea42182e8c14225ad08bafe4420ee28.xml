@@ -441,7 +441,7 @@
         x="504"
         y="240"
         width="157"
-        height="265"/>
+        height="349"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-908321db60074607b0c11c1198a9e2c0"
@@ -449,7 +449,7 @@
       <bounds
           x="12"
           y="48"
-          width="120"
+          width="133"
           height="49"/>
       <archimateElement
           xsi:type="archimate:DataObject"
@@ -462,7 +462,7 @@
       <bounds
           x="12"
           y="108"
-          width="120"
+          width="133"
           height="37"/>
       <archimateElement
           xsi:type="archimate:DataObject"
@@ -476,7 +476,7 @@
       <bounds
           x="12"
           y="156"
-          width="120"
+          width="133"
           height="37"/>
       <archimateElement
           xsi:type="archimate:DataObject"
@@ -490,26 +490,27 @@
       <bounds
           x="12"
           y="204"
-          width="120"
-          height="35"/>
+          width="133"
+          height="37"/>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_id-29caf47b21ed46a8bd55f0311cd634ef.xml#id-29caf47b21ed46a8bd55f0311cd634ef"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-2fdcb1ab138f4febbc69c4b4efb487e3"
+        fillColor="#fff1ea">
+      <bounds
+          x="12"
+          y="252"
+          width="133"
+          height="37"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-b8d54a076de845f8937345e532b55a4f.xml#id-b8d54a076de845f8937345e532b55a4f"/>
+    </children>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-d8becce9b6e94e59a81cb4b3882897e0.xml#id-d8becce9b6e94e59a81cb4b3882897e0"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-fb36fffba49a424db2c0a7bb0cff08c5">
-    <bounds
-        x="988"
-        y="809"
-        width="157"
-        height="40"/>
-    <archimateElement
-        xsi:type="archimate:DataObject"
-        href="DataObject_id-ce5579e4326d4632916b44a2c1bbe648.xml#id-ce5579e4326d4632916b44a2c1bbe648"/>
   </children>
 </archimate:ArchimateDiagramModel>
