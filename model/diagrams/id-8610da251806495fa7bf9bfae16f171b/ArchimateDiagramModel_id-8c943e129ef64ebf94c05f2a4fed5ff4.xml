@@ -54,8 +54,8 @@
     <bounds
         x="12"
         y="12"
-        width="1309"
-        height="937"/>
+        width="1321"
+        height="1057"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-fcc354bd17894b9283c3f9cd30179bb3"
@@ -167,7 +167,8 @@
         </children>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-f546e64040e74ec3a80efc08ef3f0838">
+            id="id-f546e64040e74ec3a80efc08ef3f0838"
+            fillColor="#fb7966">
           <bounds
               x="360"
               y="48"
@@ -698,6 +699,65 @@
       <archimateElement
           xsi:type="archimate:TechnologyFunction"
           href="TechnologyFunction_id-c749c2bda1ec4684ae3297abbdd32db2.xml#id-c749c2bda1ec4684ae3297abbdd32db2"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-0f1c94be3c9e4671ac90778daa276946"
+        textAlignment="1"
+        content="LEGENDS :&#xD;&#xA;LifeCycle Status&#xD;&#xA;">
+      <bounds
+          x="948"
+          y="924"
+          width="324"
+          height="85"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-39a94c06d131437d8a210db3ddaa7b1f"
+        fillColor="#89e297">
+      <features
+          name="iconColor"
+          value="#89e297"/>
+      <bounds
+          x="960"
+          y="972"
+          width="85"
+          height="25"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-61f4f0ebde2b48c299bd95c0378bfba6.xml#id-61f4f0ebde2b48c299bd95c0378bfba6"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-1635ebdc1f92471298c2a021f355ff0d"
+        fillColor="#ff0000">
+      <features
+          name="iconColor"
+          value="#ff0000"/>
+      <bounds
+          x="1056"
+          y="972"
+          width="85"
+          height="25"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-b446bdcacaea4a8cb4f88a70e1c1fae6.xml#id-b446bdcacaea4a8cb4f88a70e1c1fae6"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-092ec82fe99343409b7804f2eeb6f6ab"
+        fillColor="#fa821f">
+      <features
+          name="iconColor"
+          value="#fa821f"/>
+      <bounds
+          x="1152"
+          y="972"
+          width="85"
+          height="25"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-ddb9800a68174d71a0f910a902f6e1ed.xml#id-ddb9800a68174d71a0f910a902f6e1ed"/>
     </children>
     <archimateElement
         xsi:type="archimate:TechnologyFunction"
